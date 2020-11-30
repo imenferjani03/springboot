@@ -16,6 +16,6 @@ public class DemoApplication {
 
 	@GetMapping(path="/prod")
 	public String prod(){
-		return "Imen Ferjeani";
+		return "Imen Ferjeani 3éme GT";
 	}
 }
